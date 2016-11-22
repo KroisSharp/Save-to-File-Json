@@ -34,8 +34,6 @@ namespace Save_to_File_Json
             else return (this.navn.Equals(other.navn));
         }
 
-
-
         class Program
         {
 
