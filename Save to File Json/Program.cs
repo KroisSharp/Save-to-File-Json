@@ -97,6 +97,7 @@ namespace Save_to_File_Json
                             {
                                 Console.WriteLine(i.navn + i.alder);
                             }
+                            Console.WriteLine("");
                             break;
                         case "q":
                             Console.Clear();
@@ -119,7 +120,6 @@ namespace Save_to_File_Json
                 Console.ReadLine();
 
 
-                //sidste kode før
             }
 
 
